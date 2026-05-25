@@ -1,9 +1,9 @@
+
 # 🇧🇷 Brasileirão Analytics Dashboard
 
 Dashboard profissional de análise de dados do **Campeonato Brasileiro Série A 2026**, construído com uma stack completa de Engenharia e Análise de Dados.
 
-![Dashboard Preview](docs/dash_brasileirao.jpg)
-
+<img width="1344" height="753" alt="dash brasileirao" src="https://github.com/user-attachments/assets/bb6a7351-d32c-4d0b-bbc9-c0ff684ad123" />
 ---
 
 ## 📊 Sobre o Projeto
