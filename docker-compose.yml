@@ -1,0 +1,32 @@
+version: '3'
+services:
+
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: brasileirao
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: senha123
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  airflow:
+    image: apache/airflow:2.7.0
+    depends_on:
+      - postgres
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://admin:senha123@postgres/brasileirao
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      SPORTMONKS_TOKEN: ${SPORTMONKS_TOKEN}
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./scripts:/opt/airflow/scripts
+    ports:
+      - "8080:8080"
+    command: standalone
+
+volumes:
+  postgres_data:

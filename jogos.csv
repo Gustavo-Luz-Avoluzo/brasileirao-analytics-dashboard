@@ -1,0 +1,381 @@
+﻿jogo_id,rodada,data,status,time_casa,time_casa_sigla,gols_casa,gols_fora,time_fora,time_fora_sigla,atualizado_em
+554740,1,2026-01-28,FINISHED,CA Mineiro,Mineiro,2.0,2.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.735809
+554744,1,2026-01-28,FINISHED,Coritiba FBC,Coritiba,0.0,1.0,RB Bragantino,Bragantino,2026-05-24 03:04:47.735820
+554746,1,2026-01-28,FINISHED,SC Internacional,Internacional,0.0,1.0,CA Paranaense,Paranaense,2026-05-24 03:04:47.735822
+554749,1,2026-01-28,FINISHED,EC Vitória,Vitória,2.0,0.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.735825
+554745,1,2026-01-28,FINISHED,Fluminense FC,Fluminense,2.0,1.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.735827
+554742,1,2026-01-28,FINISHED,Chapecoense AF,Chapecoense,4.0,2.0,Santos FC,Santos,2026-05-24 03:04:47.735829
+554743,1,2026-01-28,FINISHED,SC Corinthians Paulista,Corinthians,1.0,2.0,EC Bahia,Bahia,2026-05-24 03:04:47.735831
+554748,1,2026-01-29,FINISHED,São Paulo FC,São Paulo,2.0,1.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.735842
+554747,1,2026-01-29,FINISHED,Mirassol FC,Mirassol,2.0,1.0,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.735844
+554741,1,2026-01-30,FINISHED,Botafogo FR,Botafogo,4.0,0.0,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.735846
+554752,2,2026-02-04,FINISHED,RB Bragantino,Bragantino,1.0,0.0,CA Mineiro,Mineiro,2026-05-24 03:04:47.735848
+554754,2,2026-02-04,FINISHED,CR Flamengo,Flamengo,1.0,1.0,SC Internacional,Internacional,2026-05-24 03:04:47.735851
+554757,2,2026-02-04,FINISHED,Clube do Remo,Clube do Remo,2.0,2.0,Mirassol FC,Mirassol,2026-05-24 03:04:47.735852
+554758,2,2026-02-04,FINISHED,Santos FC,Santos,1.0,1.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.735854
+554755,2,2026-02-05,FINISHED,Grêmio FBPA,Grêmio,5.0,3.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.735856
+554756,2,2026-02-05,FINISHED,SE Palmeiras,Palmeiras,5.0,1.0,EC Vitória,Vitória,2026-05-24 03:04:47.735858
+554751,2,2026-02-05,FINISHED,EC Bahia,Bahia,1.0,1.0,Fluminense FC,Fluminense,2026-05-24 03:04:47.735860
+554759,2,2026-02-05,FINISHED,CR Vasco da Gama,Vasco da Gama,1.0,1.0,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.735864
+554753,2,2026-02-06,FINISHED,Cruzeiro EC,Cruzeiro,1.0,2.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.735866
+554769,3,2026-02-11,FINISHED,EC Vitória,Vitória,1.0,2.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.735869
+554762,3,2026-02-11,FINISHED,Chapecoense AF,Chapecoense,3.0,3.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.735871
+554766,3,2026-02-11,FINISHED,Mirassol FC,Mirassol,2.0,2.0,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.735872
+554761,3,2026-02-11,FINISHED,CA Mineiro,Mineiro,3.0,3.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.735874
+554767,3,2026-02-12,FINISHED,São Paulo FC,São Paulo,2.0,0.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.735875
+554768,3,2026-02-12,FINISHED,CR Vasco da Gama,Vasco da Gama,0.0,1.0,EC Bahia,Bahia,2026-05-24 03:04:47.735877
+554760,3,2026-02-12,FINISHED,CA Paranaense,Paranaense,2.0,1.0,Santos FC,Santos,2026-05-24 03:04:47.735879
+554764,3,2026-02-12,FINISHED,Fluminense FC,Fluminense,1.0,0.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.735880
+554763,3,2026-02-12,FINISHED,SC Corinthians Paulista,Corinthians,2.0,0.0,RB Bragantino,Bragantino,2026-05-24 03:04:47.735883
+554765,3,2026-02-13,FINISHED,SC Internacional,Internacional,1.0,3.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.735885
+554750,2,2026-02-19,FINISHED,CA Paranaense,Paranaense,0.0,1.0,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.735887
+554770,4,2026-02-25,POSTPONED,EC Bahia,Bahia,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.735889
+554771,4,2026-02-25,POSTPONED,Botafogo FR,Botafogo,,,EC Vitória,Vitória,2026-05-24 03:04:47.735891
+554775,4,2026-02-25,POSTPONED,CR Flamengo,Flamengo,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.735892
+554772,4,2026-02-25,FINISHED,RB Bragantino,Bragantino,1.0,1.0,CA Paranaense,Paranaense,2026-05-24 03:04:47.735894
+554778,4,2026-02-25,FINISHED,Clube do Remo,Clube do Remo,1.0,1.0,SC Internacional,Internacional,2026-05-24 03:04:47.735896
+554773,4,2026-02-25,FINISHED,Coritiba FBC,Coritiba,0.0,1.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.735898
+554774,4,2026-02-25,FINISHED,Cruzeiro EC,Cruzeiro,1.0,1.0,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.735899
+554776,4,2026-02-26,FINISHED,Grêmio FBPA,Grêmio,2.0,1.0,CA Mineiro,Mineiro,2026-05-24 03:04:47.735902
+554777,4,2026-02-26,FINISHED,SE Palmeiras,Palmeiras,2.0,1.0,Fluminense FC,Fluminense,2026-05-24 03:04:47.735903
+554779,4,2026-02-26,FINISHED,Santos FC,Santos,2.0,1.0,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.735905
+554786,5,2026-03-11,FINISHED,Mirassol FC,Mirassol,2.0,2.0,Santos FC,Santos,2026-05-24 03:04:47.735907
+554781,5,2026-03-11,FINISHED,CA Mineiro,Mineiro,1.0,0.0,SC Internacional,Internacional,2026-05-24 03:04:47.735908
+554782,5,2026-03-11,FINISHED,EC Bahia,Bahia,1.0,1.0,EC Vitória,Vitória,2026-05-24 03:04:47.735910
+554783,5,2026-03-12,FINISHED,SC Corinthians Paulista,Corinthians,0.0,2.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.735911
+554784,5,2026-03-12,FINISHED,CR Flamengo,Flamengo,2.0,0.0,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.735913
+554787,5,2026-03-12,FINISHED,Clube do Remo,Clube do Remo,0.0,2.0,Fluminense FC,Fluminense,2026-05-24 03:04:47.735914
+554789,5,2026-03-12,FINISHED,CR Vasco da Gama,Vasco da Gama,2.0,1.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.735915
+554788,5,2026-03-12,FINISHED,São Paulo FC,São Paulo,2.0,0.0,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.735918
+554785,5,2026-03-13,FINISHED,Grêmio FBPA,Grêmio,1.0,1.0,RB Bragantino,Bragantino,2026-05-24 03:04:47.735919
+554799,6,2026-03-14,FINISHED,EC Vitória,Vitória,2.0,0.0,CA Mineiro,Mineiro,2026-05-24 03:04:47.735921
+554790,6,2026-03-14,FINISHED,Botafogo FR,Botafogo,0.0,3.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.735922
+554795,6,2026-03-15,FINISHED,Fluminense FC,Fluminense,3.0,2.0,CA Paranaense,Paranaense,2026-05-24 03:04:47.735924
+554796,6,2026-03-15,FINISHED,SC Internacional,Internacional,0.0,1.0,EC Bahia,Bahia,2026-05-24 03:04:47.735925
+554798,6,2026-03-15,FINISHED,Santos FC,Santos,1.0,1.0,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.735927
+554793,6,2026-03-15,FINISHED,Coritiba FBC,Coritiba,1.0,0.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.735929
+554797,6,2026-03-15,FINISHED,SE Palmeiras,Palmeiras,1.0,0.0,Mirassol FC,Mirassol,2026-05-24 03:04:47.735931
+554791,6,2026-03-15,FINISHED,RB Bragantino,Bragantino,1.0,2.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.735932
+554794,6,2026-03-15,FINISHED,Cruzeiro EC,Cruzeiro,3.0,3.0,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.735935
+554792,6,2026-03-16,FINISHED,Chapecoense AF,Chapecoense,1.0,1.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.735937
+554802,7,2026-03-18,FINISHED,EC Bahia,Bahia,2.0,0.0,RB Bragantino,Bragantino,2026-05-24 03:04:47.735939
+554807,7,2026-03-18,FINISHED,SE Palmeiras,Palmeiras,2.0,1.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.735941
+554800,7,2026-03-18,FINISHED,CA Paranaense,Paranaense,2.0,1.0,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.735943
+554801,7,2026-03-18,FINISHED,CA Mineiro,Mineiro,1.0,0.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.735945
+554806,7,2026-03-18,FINISHED,Mirassol FC,Mirassol,0.0,1.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.735947
+554808,7,2026-03-19,FINISHED,Santos FC,Santos,1.0,2.0,SC Internacional,Internacional,2026-05-24 03:04:47.735949
+554809,7,2026-03-19,FINISHED,CR Vasco da Gama,Vasco da Gama,3.0,2.0,Fluminense FC,Fluminense,2026-05-24 03:04:47.735951
+554805,7,2026-03-19,FINISHED,Grêmio FBPA,Grêmio,2.0,0.0,EC Vitória,Vitória,2026-05-24 03:04:47.735953
+554804,7,2026-03-19,FINISHED,CR Flamengo,Flamengo,3.0,0.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.735955
+554803,7,2026-03-20,FINISHED,Chapecoense AF,Chapecoense,0.0,0.0,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.735957
+554811,8,2026-03-21,FINISHED,RB Bragantino,Bragantino,1.0,2.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.735958
+554814,8,2026-03-21,FINISHED,Fluminense FC,Fluminense,1.0,0.0,CA Mineiro,Mineiro,2026-05-24 03:04:47.735960
+554817,8,2026-03-22,FINISHED,São Paulo FC,São Paulo,0.0,1.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.735962
+554810,8,2026-03-22,FINISHED,CA Paranaense,Paranaense,2.0,0.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.735963
+554813,8,2026-03-22,FINISHED,Cruzeiro EC,Cruzeiro,0.0,0.0,Santos FC,Santos,2026-05-24 03:04:47.735965
+554816,8,2026-03-22,FINISHED,Clube do Remo,Clube do Remo,4.0,1.0,EC Bahia,Bahia,2026-05-24 03:04:47.735967
+554818,8,2026-03-22,FINISHED,CR Vasco da Gama,Vasco da Gama,2.0,1.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.735968
+554815,8,2026-03-22,FINISHED,SC Internacional,Internacional,2.0,0.0,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.735970
+554819,8,2026-03-22,FINISHED,EC Vitória,Vitória,1.0,0.0,Mirassol FC,Mirassol,2026-05-24 03:04:47.735974
+554812,8,2026-03-22,FINISHED,SC Corinthians Paulista,Corinthians,1.0,1.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.735976
+554780,5,2026-03-29,FINISHED,CA Paranaense,Paranaense,4.0,1.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.735978
+554821,9,2026-04-01,FINISHED,Botafogo FR,Botafogo,3.0,2.0,Mirassol FC,Mirassol,2026-05-24 03:04:47.735980
+554827,9,2026-04-01,FINISHED,SC Internacional,Internacional,1.0,1.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.735981
+554820,9,2026-04-01,FINISHED,EC Bahia,Bahia,3.0,0.0,CA Paranaense,Paranaense,2026-05-24 03:04:47.735983
+554825,9,2026-04-01,FINISHED,Cruzeiro EC,Cruzeiro,3.0,0.0,EC Vitória,Vitória,2026-05-24 03:04:47.735985
+554824,9,2026-04-01,FINISHED,Coritiba FBC,Coritiba,1.0,1.0,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.735987
+554826,9,2026-04-02,FINISHED,Fluminense FC,Fluminense,3.0,1.0,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.735988
+554823,9,2026-04-02,FINISHED,Chapecoense AF,Chapecoense,0.0,4.0,CA Mineiro,Mineiro,2026-05-24 03:04:47.735990
+554829,9,2026-04-02,FINISHED,Santos FC,Santos,2.0,0.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.735992
+554822,9,2026-04-03,FINISHED,RB Bragantino,Bragantino,3.0,0.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.735994
+554828,9,2026-04-03,FINISHED,SE Palmeiras,Palmeiras,2.0,1.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.735996
+554838,10,2026-04-04,FINISHED,São Paulo FC,São Paulo,4.0,1.0,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.735997
+554834,10,2026-04-04,FINISHED,Coritiba FBC,Coritiba,1.0,1.0,Fluminense FC,Fluminense,2026-05-24 03:04:47.735999
+554839,10,2026-04-05,FINISHED,CR Vasco da Gama,Vasco da Gama,1.0,2.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.736000
+554832,10,2026-04-05,FINISHED,Chapecoense AF,Chapecoense,1.0,1.0,EC Vitória,Vitória,2026-05-24 03:04:47.736002
+554830,10,2026-04-05,FINISHED,CA Mineiro,Mineiro,2.0,1.0,CA Paranaense,Paranaense,2026-05-24 03:04:47.736004
+554835,10,2026-04-05,FINISHED,CR Flamengo,Flamengo,3.0,1.0,Santos FC,Santos,2026-05-24 03:04:47.736005
+554831,10,2026-04-05,FINISHED,EC Bahia,Bahia,1.0,2.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736008
+554833,10,2026-04-05,FINISHED,SC Corinthians Paulista,Corinthians,0.0,1.0,SC Internacional,Internacional,2026-05-24 03:04:47.736019
+554837,10,2026-04-05,FINISHED,Mirassol FC,Mirassol,0.0,1.0,RB Bragantino,Bragantino,2026-05-24 03:04:47.736021
+554836,10,2026-04-05,FINISHED,Grêmio FBPA,Grêmio,0.0,0.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736022
+554847,11,2026-04-11,FINISHED,Clube do Remo,Clube do Remo,1.0,1.0,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736024
+554849,11,2026-04-11,FINISHED,EC Vitória,Vitória,2.0,0.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.736026
+554846,11,2026-04-11,FINISHED,Mirassol FC,Mirassol,1.0,2.0,EC Bahia,Bahia,2026-05-24 03:04:47.736027
+554848,11,2026-04-11,FINISHED,Santos FC,Santos,1.0,0.0,CA Mineiro,Mineiro,2026-05-24 03:04:47.736029
+554845,11,2026-04-11,FINISHED,SC Internacional,Internacional,0.0,0.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736031
+554840,11,2026-04-12,FINISHED,CA Paranaense,Paranaense,2.0,0.0,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736032
+554841,11,2026-04-12,FINISHED,Botafogo FR,Botafogo,2.0,2.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736034
+554844,11,2026-04-12,FINISHED,Fluminense FC,Fluminense,1.0,2.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.736036
+554842,11,2026-04-12,FINISHED,SC Corinthians Paulista,Corinthians,0.0,0.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736037
+554843,11,2026-04-12,FINISHED,Cruzeiro EC,Cruzeiro,2.0,1.0,RB Bragantino,Bragantino,2026-05-24 03:04:47.736042
+554851,12,2026-04-18,FINISHED,Chapecoense AF,Chapecoense,1.0,4.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.736045
+554858,12,2026-04-18,FINISHED,CR Vasco da Gama,Vasco da Gama,2.0,1.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.736046
+554859,12,2026-04-18,FINISHED,EC Vitória,Vitória,0.0,0.0,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736047
+554853,12,2026-04-18,FINISHED,Cruzeiro EC,Cruzeiro,2.0,0.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736049
+554855,12,2026-04-19,FINISHED,SC Internacional,Internacional,1.0,2.0,Mirassol FC,Mirassol,2026-05-24 03:04:47.736050
+554852,12,2026-04-19,FINISHED,Coritiba FBC,Coritiba,2.0,0.0,CA Mineiro,Mineiro,2026-05-24 03:04:47.736052
+554857,12,2026-04-19,FINISHED,Santos FC,Santos,2.0,3.0,Fluminense FC,Fluminense,2026-05-24 03:04:47.736053
+554850,12,2026-04-19,FINISHED,RB Bragantino,Bragantino,4.0,2.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736056
+554856,12,2026-04-19,FINISHED,SE Palmeiras,Palmeiras,1.0,0.0,CA Paranaense,Paranaense,2026-05-24 03:04:47.736058
+554854,12,2026-04-19,FINISHED,CR Flamengo,Flamengo,2.0,0.0,EC Bahia,Bahia,2026-05-24 03:04:47.736059
+554862,13,2026-04-25,FINISHED,EC Bahia,Bahia,2.0,2.0,Santos FC,Santos,2026-05-24 03:04:47.736061
+554863,13,2026-04-25,FINISHED,Botafogo FR,Botafogo,2.0,2.0,SC Internacional,Internacional,2026-05-24 03:04:47.736063
+554868,13,2026-04-25,FINISHED,Clube do Remo,Clube do Remo,0.0,1.0,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736064
+554869,13,2026-04-26,FINISHED,São Paulo FC,São Paulo,1.0,0.0,Mirassol FC,Mirassol,2026-05-24 03:04:47.736066
+554865,13,2026-04-26,FINISHED,SC Corinthians Paulista,Corinthians,1.0,0.0,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736067
+554867,13,2026-04-26,FINISHED,Grêmio FBPA,Grêmio,1.0,0.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736068
+554860,13,2026-04-26,FINISHED,CA Paranaense,Paranaense,3.0,1.0,EC Vitória,Vitória,2026-05-24 03:04:47.736070
+554864,13,2026-04-26,FINISHED,RB Bragantino,Bragantino,0.0,1.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736072
+554861,13,2026-04-26,FINISHED,CA Mineiro,Mineiro,0.0,4.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.736074
+554866,13,2026-04-26,FINISHED,Fluminense FC,Fluminense,2.0,1.0,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736076
+554871,14,2026-05-02,FINISHED,Botafogo FR,Botafogo,1.0,2.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736077
+554877,14,2026-05-02,FINISHED,SE Palmeiras,Palmeiras,1.0,1.0,Santos FC,Santos,2026-05-24 03:04:47.736079
+554879,14,2026-05-02,FINISHED,EC Vitória,Vitória,4.0,1.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736081
+554870,14,2026-05-02,FINISHED,CA Paranaense,Paranaense,0.0,0.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736083
+554873,14,2026-05-03,FINISHED,Cruzeiro EC,Cruzeiro,1.0,3.0,CA Mineiro,Mineiro,2026-05-24 03:04:47.736084
+554874,14,2026-05-03,FINISHED,CR Flamengo,Flamengo,2.0,2.0,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736086
+554878,14,2026-05-03,FINISHED,São Paulo FC,São Paulo,2.0,2.0,EC Bahia,Bahia,2026-05-24 03:04:47.736088
+554872,14,2026-05-03,FINISHED,Chapecoense AF,Chapecoense,1.0,2.0,RB Bragantino,Bragantino,2026-05-24 03:04:47.736091
+554875,14,2026-05-03,FINISHED,SC Internacional,Internacional,2.0,0.0,Fluminense FC,Fluminense,2026-05-24 03:04:47.736092
+554876,14,2026-05-03,FINISHED,Mirassol FC,Mirassol,2.0,1.0,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736094
+554883,15,2026-05-09,FINISHED,Coritiba FBC,Coritiba,2.0,2.0,SC Internacional,Internacional,2026-05-24 03:04:47.736095
+554884,15,2026-05-09,FINISHED,Fluminense FC,Fluminense,2.0,2.0,EC Vitória,Vitória,2026-05-24 03:04:47.736098
+554881,15,2026-05-10,FINISHED,EC Bahia,Bahia,1.0,2.0,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736099
+554880,15,2026-05-10,FINISHED,CA Mineiro,Mineiro,1.0,1.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.736101
+554887,15,2026-05-10,FINISHED,Clube do Remo,Clube do Remo,1.0,1.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736102
+554882,15,2026-05-10,FINISHED,SC Corinthians Paulista,Corinthians,3.0,2.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.736104
+554886,15,2026-05-10,FINISHED,Mirassol FC,Mirassol,1.0,1.0,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736106
+554888,15,2026-05-10,FINISHED,Santos FC,Santos,2.0,0.0,RB Bragantino,Bragantino,2026-05-24 03:04:47.736109
+554885,15,2026-05-10,FINISHED,Grêmio FBPA,Grêmio,0.0,1.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.736110
+554889,15,2026-05-10,FINISHED,CR Vasco da Gama,Vasco da Gama,1.0,0.0,CA Paranaense,Paranaense,2026-05-24 03:04:47.736113
+554891,16,2026-05-16,FINISHED,CA Mineiro,Mineiro,3.0,1.0,Mirassol FC,Mirassol,2026-05-24 03:04:47.736114
+554897,16,2026-05-16,FINISHED,SC Internacional,Internacional,4.0,1.0,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736117
+554896,16,2026-05-16,FINISHED,Fluminense FC,Fluminense,2.0,1.0,São Paulo FC,São Paulo,2026-05-24 03:04:47.736118
+554898,16,2026-05-17,FINISHED,SE Palmeiras,Palmeiras,1.0,1.0,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736120
+554899,16,2026-05-17,FINISHED,Santos FC,Santos,0.0,3.0,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736122
+554892,16,2026-05-17,FINISHED,EC Bahia,Bahia,1.0,1.0,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736123
+554893,16,2026-05-17,FINISHED,Botafogo FR,Botafogo,3.0,1.0,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736125
+554894,16,2026-05-17,FINISHED,RB Bragantino,Bragantino,2.0,0.0,EC Vitória,Vitória,2026-05-24 03:04:47.736127
+554895,16,2026-05-17,FINISHED,Chapecoense AF,Chapecoense,2.0,3.0,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736128
+554890,16,2026-05-17,FINISHED,CA Paranaense,Paranaense,1.0,1.0,CR Flamengo,Flamengo,2026-05-24 03:04:47.736130
+554907,17,2026-05-23,FINISHED,São Paulo FC,São Paulo,1.0,1.0,Botafogo FR,Botafogo,2026-05-24 03:04:47.736131
+554909,17,2026-05-23,FINISHED,EC Vitória,Vitória,2.0,0.0,SC Internacional,Internacional,2026-05-24 03:04:47.736132
+554904,17,2026-05-23,FINISHED,Grêmio FBPA,Grêmio,3.0,2.0,Santos FC,Santos,2026-05-24 03:04:47.736134
+554905,17,2026-05-23,FINISHED,Mirassol FC,Mirassol,1.0,0.0,Fluminense FC,Fluminense,2026-05-24 03:04:47.736136
+554903,17,2026-05-24,FINISHED,CR Flamengo,Flamengo,0.0,3.0,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736138
+554902,17,2026-05-24,TIMED,Cruzeiro EC,Cruzeiro,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736139
+554906,17,2026-05-24,TIMED,Clube do Remo,Clube do Remo,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736140
+554900,17,2026-05-24,TIMED,SC Corinthians Paulista,Corinthians,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736143
+554908,17,2026-05-24,TIMED,CR Vasco da Gama,Vasco da Gama,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736144
+554901,17,2026-05-25,TIMED,Coritiba FBC,Coritiba,,,EC Bahia,Bahia,2026-05-24 03:04:47.736145
+554910,18,2026-05-30,TIMED,CA Paranaense,Paranaense,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736146
+554914,18,2026-05-30,TIMED,CR Flamengo,Flamengo,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736148
+554911,18,2026-05-30,TIMED,EC Bahia,Bahia,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736149
+554915,18,2026-05-30,TIMED,Grêmio FBPA,Grêmio,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736152
+554918,18,2026-05-31,TIMED,Santos FC,Santos,,,EC Vitória,Vitória,2026-05-24 03:04:47.736153
+554912,18,2026-05-31,TIMED,RB Bragantino,Bragantino,,,SC Internacional,Internacional,2026-05-24 03:04:47.736154
+554916,18,2026-05-31,TIMED,SE Palmeiras,Palmeiras,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736156
+554919,18,2026-05-31,TIMED,CR Vasco da Gama,Vasco da Gama,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736158
+554913,18,2026-05-31,TIMED,Cruzeiro EC,Cruzeiro,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736160
+554917,18,2026-05-31,TIMED,Clube do Remo,Clube do Remo,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736162
+554920,19,2026-07-22,SCHEDULED,CA Mineiro,Mineiro,,,EC Bahia,Bahia,2026-05-24 03:04:47.736163
+554921,19,2026-07-22,SCHEDULED,Botafogo FR,Botafogo,,,Santos FC,Santos,2026-05-24 03:04:47.736165
+554922,19,2026-07-22,SCHEDULED,Chapecoense AF,Chapecoense,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736167
+554923,19,2026-07-22,SCHEDULED,SC Corinthians Paulista,Corinthians,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736169
+554924,19,2026-07-22,SCHEDULED,Coritiba FBC,Coritiba,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736171
+554925,19,2026-07-22,SCHEDULED,Fluminense FC,Fluminense,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736172
+554926,19,2026-07-22,SCHEDULED,SC Internacional,Internacional,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736173
+554927,19,2026-07-22,SCHEDULED,Mirassol FC,Mirassol,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736176
+554928,19,2026-07-22,SCHEDULED,São Paulo FC,São Paulo,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736177
+554929,19,2026-07-22,SCHEDULED,EC Vitória,Vitória,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736179
+554930,20,2026-07-25,SCHEDULED,CA Paranaense,Paranaense,,,SC Internacional,Internacional,2026-05-24 03:04:47.736180
+554931,20,2026-07-25,SCHEDULED,EC Bahia,Bahia,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736181
+554932,20,2026-07-25,SCHEDULED,RB Bragantino,Bragantino,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736183
+554933,20,2026-07-25,SCHEDULED,Cruzeiro EC,Cruzeiro,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736185
+554934,20,2026-07-25,SCHEDULED,CR Flamengo,Flamengo,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736186
+554935,20,2026-07-25,SCHEDULED,Grêmio FBPA,Grêmio,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736188
+554936,20,2026-07-25,SCHEDULED,SE Palmeiras,Palmeiras,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736190
+554937,20,2026-07-25,SCHEDULED,Clube do Remo,Clube do Remo,,,EC Vitória,Vitória,2026-05-24 03:04:47.736192
+554938,20,2026-07-25,SCHEDULED,Santos FC,Santos,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736193
+554939,20,2026-07-25,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736195
+554940,21,2026-07-29,SCHEDULED,CA Mineiro,Mineiro,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736196
+554941,21,2026-07-29,SCHEDULED,Botafogo FR,Botafogo,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736201
+554942,21,2026-07-29,SCHEDULED,Chapecoense AF,Chapecoense,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736202
+554943,21,2026-07-29,SCHEDULED,SC Corinthians Paulista,Corinthians,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736204
+554944,21,2026-07-29,SCHEDULED,Coritiba FBC,Coritiba,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736205
+554945,21,2026-07-29,SCHEDULED,Fluminense FC,Fluminense,,,EC Bahia,Bahia,2026-05-24 03:04:47.736208
+554946,21,2026-07-29,SCHEDULED,SC Internacional,Internacional,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736209
+554947,21,2026-07-29,SCHEDULED,Mirassol FC,Mirassol,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736212
+554948,21,2026-07-29,SCHEDULED,São Paulo FC,São Paulo,,,Santos FC,Santos,2026-05-24 03:04:47.736213
+554949,21,2026-07-29,SCHEDULED,EC Vitória,Vitória,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736215
+554950,22,2026-08-08,SCHEDULED,EC Bahia,Bahia,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736216
+554951,22,2026-08-08,SCHEDULED,Botafogo FR,Botafogo,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736218
+554952,22,2026-08-08,SCHEDULED,RB Bragantino,Bragantino,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736219
+554953,22,2026-08-08,SCHEDULED,Coritiba FBC,Coritiba,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736221
+554954,22,2026-08-08,SCHEDULED,Cruzeiro EC,Cruzeiro,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736223
+554955,22,2026-08-08,SCHEDULED,CR Flamengo,Flamengo,,,EC Vitória,Vitória,2026-05-24 03:04:47.736224
+554956,22,2026-08-08,SCHEDULED,Grêmio FBPA,Grêmio,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736226
+554957,22,2026-08-08,SCHEDULED,SE Palmeiras,Palmeiras,,,SC Internacional,Internacional,2026-05-24 03:04:47.736228
+554958,22,2026-08-08,SCHEDULED,Clube do Remo,Clube do Remo,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736230
+554959,22,2026-08-08,SCHEDULED,Santos FC,Santos,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736231
+554960,23,2026-08-15,SCHEDULED,CA Paranaense,Paranaense,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736232
+554961,23,2026-08-15,SCHEDULED,CA Mineiro,Mineiro,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736234
+554962,23,2026-08-15,SCHEDULED,Chapecoense AF,Chapecoense,,,EC Bahia,Bahia,2026-05-24 03:04:47.736235
+554963,23,2026-08-15,SCHEDULED,SC Corinthians Paulista,Corinthians,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736237
+554964,23,2026-08-15,SCHEDULED,Fluminense FC,Fluminense,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736239
+554965,23,2026-08-15,SCHEDULED,SC Internacional,Internacional,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736240
+554966,23,2026-08-15,SCHEDULED,Mirassol FC,Mirassol,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736242
+554967,23,2026-08-15,SCHEDULED,São Paulo FC,São Paulo,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736244
+554968,23,2026-08-15,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,Santos FC,Santos,2026-05-24 03:04:47.736246
+554969,23,2026-08-15,SCHEDULED,EC Vitória,Vitória,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736247
+554970,24,2026-08-22,SCHEDULED,Botafogo FR,Botafogo,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736249
+554971,24,2026-08-22,SCHEDULED,RB Bragantino,Bragantino,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736250
+554972,24,2026-08-22,SCHEDULED,Chapecoense AF,Chapecoense,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736251
+554973,24,2026-08-22,SCHEDULED,Coritiba FBC,Coritiba,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736254
+554974,24,2026-08-22,SCHEDULED,Cruzeiro EC,Cruzeiro,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736255
+554975,24,2026-08-22,SCHEDULED,Fluminense FC,Fluminense,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736257
+554976,24,2026-08-22,SCHEDULED,SC Internacional,Internacional,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736258
+554977,24,2026-08-22,SCHEDULED,SE Palmeiras,Palmeiras,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736261
+554978,24,2026-08-22,SCHEDULED,Santos FC,Santos,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736262
+554979,24,2026-08-22,SCHEDULED,EC Vitória,Vitória,,,EC Bahia,Bahia,2026-05-24 03:04:47.736264
+554980,25,2026-08-29,SCHEDULED,CA Paranaense,Paranaense,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736265
+554981,25,2026-08-29,SCHEDULED,CA Mineiro,Mineiro,,,EC Vitória,Vitória,2026-05-24 03:04:47.736266
+554982,25,2026-08-29,SCHEDULED,EC Bahia,Bahia,,,SC Internacional,Internacional,2026-05-24 03:04:47.736268
+554983,25,2026-08-29,SCHEDULED,SC Corinthians Paulista,Corinthians,,,Santos FC,Santos,2026-05-24 03:04:47.736270
+554984,25,2026-08-29,SCHEDULED,CR Flamengo,Flamengo,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736272
+554985,25,2026-08-29,SCHEDULED,Grêmio FBPA,Grêmio,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736273
+554986,25,2026-08-29,SCHEDULED,Mirassol FC,Mirassol,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736275
+554987,25,2026-08-29,SCHEDULED,Clube do Remo,Clube do Remo,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736278
+554988,25,2026-08-29,SCHEDULED,São Paulo FC,São Paulo,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736279
+554989,25,2026-08-29,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736281
+554990,26,2026-09-05,SCHEDULED,Botafogo FR,Botafogo,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736282
+554991,26,2026-09-05,SCHEDULED,RB Bragantino,Bragantino,,,EC Bahia,Bahia,2026-05-24 03:04:47.736284
+554992,26,2026-09-05,SCHEDULED,SC Corinthians Paulista,Corinthians,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736285
+554993,26,2026-09-05,SCHEDULED,Coritiba FBC,Coritiba,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736286
+554994,26,2026-09-05,SCHEDULED,Cruzeiro EC,Cruzeiro,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736288
+554995,26,2026-09-05,SCHEDULED,Fluminense FC,Fluminense,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736289
+554996,26,2026-09-05,SCHEDULED,SC Internacional,Internacional,,,Santos FC,Santos,2026-05-24 03:04:47.736291
+554997,26,2026-09-05,SCHEDULED,Clube do Remo,Clube do Remo,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736293
+554998,26,2026-09-05,SCHEDULED,São Paulo FC,São Paulo,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736295
+554999,26,2026-09-05,SCHEDULED,EC Vitória,Vitória,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736296
+555008,27,2026-09-12,SCHEDULED,SE Palmeiras,Palmeiras,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736298
+555009,27,2026-09-12,SCHEDULED,Santos FC,Santos,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736299
+555000,27,2026-09-12,SCHEDULED,CA Mineiro,Mineiro,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736301
+555001,27,2026-09-12,SCHEDULED,EC Bahia,Bahia,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736303
+555002,27,2026-09-12,SCHEDULED,Botafogo FR,Botafogo,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736304
+555003,27,2026-09-12,SCHEDULED,Chapecoense AF,Chapecoense,,,SC Internacional,Internacional,2026-05-24 03:04:47.736306
+555004,27,2026-09-12,SCHEDULED,Coritiba FBC,Coritiba,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736308
+555005,27,2026-09-12,SCHEDULED,CR Flamengo,Flamengo,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736310
+555006,27,2026-09-12,SCHEDULED,Grêmio FBPA,Grêmio,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736312
+555007,27,2026-09-12,SCHEDULED,Mirassol FC,Mirassol,,,EC Vitória,Vitória,2026-05-24 03:04:47.736315
+555010,28,2026-09-19,SCHEDULED,CA Paranaense,Paranaense,,,EC Bahia,Bahia,2026-05-24 03:04:47.736316
+555011,28,2026-09-19,SCHEDULED,CA Mineiro,Mineiro,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736318
+555012,28,2026-09-19,SCHEDULED,SC Corinthians Paulista,Corinthians,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736319
+555013,28,2026-09-19,SCHEDULED,CR Flamengo,Flamengo,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736321
+555014,28,2026-09-19,SCHEDULED,Grêmio FBPA,Grêmio,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736322
+555015,28,2026-09-19,SCHEDULED,Mirassol FC,Mirassol,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736324
+555016,28,2026-09-19,SCHEDULED,Clube do Remo,Clube do Remo,,,Santos FC,Santos,2026-05-24 03:04:47.736326
+555017,28,2026-09-19,SCHEDULED,São Paulo FC,São Paulo,,,SC Internacional,Internacional,2026-05-24 03:04:47.736328
+555018,28,2026-09-19,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736330
+555019,28,2026-09-19,SCHEDULED,EC Vitória,Vitória,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736331
+555020,29,2026-10-07,SCHEDULED,CA Paranaense,Paranaense,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736332
+555021,29,2026-10-07,SCHEDULED,Botafogo FR,Botafogo,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736334
+555022,29,2026-10-07,SCHEDULED,RB Bragantino,Bragantino,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736335
+555023,29,2026-10-07,SCHEDULED,Cruzeiro EC,Cruzeiro,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736337
+555024,29,2026-10-07,SCHEDULED,Fluminense FC,Fluminense,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736339
+555025,29,2026-10-07,SCHEDULED,SC Internacional,Internacional,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736340
+555026,29,2026-10-07,SCHEDULED,SE Palmeiras,Palmeiras,,,EC Bahia,Bahia,2026-05-24 03:04:47.736341
+555027,29,2026-10-07,SCHEDULED,Clube do Remo,Clube do Remo,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736344
+555028,29,2026-10-07,SCHEDULED,Santos FC,Santos,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736345
+555029,29,2026-10-07,SCHEDULED,EC Vitória,Vitória,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736346
+555030,30,2026-10-10,SCHEDULED,CA Mineiro,Mineiro,,,Santos FC,Santos,2026-05-24 03:04:47.736348
+555031,30,2026-10-10,SCHEDULED,EC Bahia,Bahia,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736349
+555032,30,2026-10-10,SCHEDULED,RB Bragantino,Bragantino,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736351
+555033,30,2026-10-10,SCHEDULED,Chapecoense AF,Chapecoense,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736352
+555034,30,2026-10-10,SCHEDULED,Coritiba FBC,Coritiba,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736353
+555035,30,2026-10-10,SCHEDULED,CR Flamengo,Flamengo,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736355
+555036,30,2026-10-10,SCHEDULED,Grêmio FBPA,Grêmio,,,SC Internacional,Internacional,2026-05-24 03:04:47.736356
+555037,30,2026-10-10,SCHEDULED,SE Palmeiras,Palmeiras,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736358
+555038,30,2026-10-10,SCHEDULED,São Paulo FC,São Paulo,,,EC Vitória,Vitória,2026-05-24 03:04:47.736360
+555039,30,2026-10-10,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736361
+555040,31,2026-10-17,SCHEDULED,CA Paranaense,Paranaense,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736362
+555041,31,2026-10-17,SCHEDULED,CA Mineiro,Mineiro,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736364
+555042,31,2026-10-17,SCHEDULED,EC Bahia,Bahia,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736366
+555043,31,2026-10-17,SCHEDULED,Botafogo FR,Botafogo,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736367
+555044,31,2026-10-17,SCHEDULED,SC Corinthians Paulista,Corinthians,,,EC Vitória,Vitória,2026-05-24 03:04:47.736368
+555045,31,2026-10-17,SCHEDULED,Fluminense FC,Fluminense,,,Santos FC,Santos,2026-05-24 03:04:47.736370
+555046,31,2026-10-17,SCHEDULED,Grêmio FBPA,Grêmio,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736371
+555047,31,2026-10-17,SCHEDULED,Mirassol FC,Mirassol,,,SC Internacional,Internacional,2026-05-24 03:04:47.736373
+555048,31,2026-10-17,SCHEDULED,Clube do Remo,Clube do Remo,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736375
+555049,31,2026-10-17,SCHEDULED,São Paulo FC,São Paulo,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736378
+555050,32,2026-10-24,SCHEDULED,Chapecoense AF,Chapecoense,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736379
+555051,32,2026-10-24,SCHEDULED,Coritiba FBC,Coritiba,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736381
+555052,32,2026-10-24,SCHEDULED,Cruzeiro EC,Cruzeiro,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736382
+555053,32,2026-10-24,SCHEDULED,CR Flamengo,Flamengo,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736384
+555054,32,2026-10-24,SCHEDULED,SC Internacional,Internacional,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736386
+555055,32,2026-10-24,SCHEDULED,Mirassol FC,Mirassol,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736388
+555056,32,2026-10-24,SCHEDULED,SE Palmeiras,Palmeiras,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736389
+555057,32,2026-10-24,SCHEDULED,Santos FC,Santos,,,EC Bahia,Bahia,2026-05-24 03:04:47.736392
+555058,32,2026-10-24,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736393
+555059,32,2026-10-24,SCHEDULED,EC Vitória,Vitória,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736395
+555060,33,2026-10-28,SCHEDULED,CA Mineiro,Mineiro,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736396
+555061,33,2026-10-28,SCHEDULED,EC Bahia,Bahia,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736397
+555062,33,2026-10-28,SCHEDULED,RB Bragantino,Bragantino,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736399
+555063,33,2026-10-28,SCHEDULED,SC Corinthians Paulista,Corinthians,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736401
+555064,33,2026-10-28,SCHEDULED,Coritiba FBC,Coritiba,,,EC Vitória,Vitória,2026-05-24 03:04:47.736402
+555065,33,2026-10-28,SCHEDULED,Fluminense FC,Fluminense,,,SC Internacional,Internacional,2026-05-24 03:04:47.736403
+555066,33,2026-10-28,SCHEDULED,Grêmio FBPA,Grêmio,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736405
+555067,33,2026-10-28,SCHEDULED,Clube do Remo,Clube do Remo,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736408
+555068,33,2026-10-28,SCHEDULED,Santos FC,Santos,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736410
+555069,33,2026-10-28,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736415
+555070,34,2026-11-04,SCHEDULED,CA Paranaense,Paranaense,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736417
+555071,34,2026-11-04,SCHEDULED,Botafogo FR,Botafogo,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736420
+555072,34,2026-11-04,SCHEDULED,RB Bragantino,Bragantino,,,Santos FC,Santos,2026-05-24 03:04:47.736421
+555073,34,2026-11-04,SCHEDULED,Chapecoense AF,Chapecoense,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736425
+555074,34,2026-11-04,SCHEDULED,Cruzeiro EC,Cruzeiro,,,EC Bahia,Bahia,2026-05-24 03:04:47.736427
+555075,34,2026-11-04,SCHEDULED,CR Flamengo,Flamengo,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736428
+555076,34,2026-11-04,SCHEDULED,SC Internacional,Internacional,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736430
+555077,34,2026-11-04,SCHEDULED,SE Palmeiras,Palmeiras,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736433
+555078,34,2026-11-04,SCHEDULED,São Paulo FC,São Paulo,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736435
+555079,34,2026-11-04,SCHEDULED,EC Vitória,Vitória,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736436
+555080,35,2026-11-18,SCHEDULED,SC Corinthians Paulista,Corinthians,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736438
+555081,35,2026-11-18,SCHEDULED,Coritiba FBC,Coritiba,,,Santos FC,Santos,2026-05-24 03:04:47.736440
+555082,35,2026-11-18,SCHEDULED,Cruzeiro EC,Cruzeiro,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736441
+555083,35,2026-11-18,SCHEDULED,CR Flamengo,Flamengo,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736443
+555084,35,2026-11-18,SCHEDULED,Grêmio FBPA,Grêmio,,,EC Bahia,Bahia,2026-05-24 03:04:47.736445
+555085,35,2026-11-18,SCHEDULED,Mirassol FC,Mirassol,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736446
+555086,35,2026-11-18,SCHEDULED,Clube do Remo,Clube do Remo,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736448
+555087,35,2026-11-18,SCHEDULED,São Paulo FC,São Paulo,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736451
+555088,35,2026-11-18,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,SC Internacional,Internacional,2026-05-24 03:04:47.736452
+555089,35,2026-11-18,SCHEDULED,EC Vitória,Vitória,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736454
+555090,36,2026-11-21,SCHEDULED,CA Paranaense,Paranaense,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736455
+555091,36,2026-11-21,SCHEDULED,CA Mineiro,Mineiro,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736458
+555092,36,2026-11-21,SCHEDULED,EC Bahia,Bahia,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736459
+555093,36,2026-11-21,SCHEDULED,Botafogo FR,Botafogo,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736462
+555094,36,2026-11-21,SCHEDULED,RB Bragantino,Bragantino,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736463
+555095,36,2026-11-21,SCHEDULED,Chapecoense AF,Chapecoense,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736465
+555096,36,2026-11-21,SCHEDULED,Fluminense FC,Fluminense,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736467
+555097,36,2026-11-21,SCHEDULED,SC Internacional,Internacional,,,EC Vitória,Vitória,2026-05-24 03:04:47.736469
+555098,36,2026-11-21,SCHEDULED,SE Palmeiras,Palmeiras,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736471
+555099,36,2026-11-21,SCHEDULED,Santos FC,Santos,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736473
+555100,37,2026-11-28,SCHEDULED,CA Mineiro,Mineiro,,,CR Vasco da Gama,Vasco da Gama,2026-05-24 03:04:47.736474
+555101,37,2026-11-28,SCHEDULED,Botafogo FR,Botafogo,,,EC Bahia,Bahia,2026-05-24 03:04:47.736476
+555102,37,2026-11-28,SCHEDULED,Chapecoense AF,Chapecoense,,,SE Palmeiras,Palmeiras,2026-05-24 03:04:47.736477
+555103,37,2026-11-28,SCHEDULED,SC Corinthians Paulista,Corinthians,,,Grêmio FBPA,Grêmio,2026-05-24 03:04:47.736479
+555104,37,2026-11-28,SCHEDULED,Coritiba FBC,Coritiba,,,CR Flamengo,Flamengo,2026-05-24 03:04:47.736480
+555105,37,2026-11-28,SCHEDULED,Fluminense FC,Fluminense,,,Cruzeiro EC,Cruzeiro,2026-05-24 03:04:47.736482
+555106,37,2026-11-28,SCHEDULED,SC Internacional,Internacional,,,RB Bragantino,Bragantino,2026-05-24 03:04:47.736484
+555107,37,2026-11-28,SCHEDULED,Mirassol FC,Mirassol,,,CA Paranaense,Paranaense,2026-05-24 03:04:47.736486
+555108,37,2026-11-28,SCHEDULED,São Paulo FC,São Paulo,,,Clube do Remo,Clube do Remo,2026-05-24 03:04:47.736488
+555109,37,2026-11-28,SCHEDULED,EC Vitória,Vitória,,,Santos FC,Santos,2026-05-24 03:04:47.736489
+555110,38,2026-12-02,SCHEDULED,CA Paranaense,Paranaense,,,São Paulo FC,São Paulo,2026-05-24 03:04:47.736491
+555111,38,2026-12-02,SCHEDULED,EC Bahia,Bahia,,,CA Mineiro,Mineiro,2026-05-24 03:04:47.736493
+555112,38,2026-12-02,SCHEDULED,RB Bragantino,Bragantino,,,Fluminense FC,Fluminense,2026-05-24 03:04:47.736494
+555113,38,2026-12-02,SCHEDULED,Cruzeiro EC,Cruzeiro,,,SC Internacional,Internacional,2026-05-24 03:04:47.736496
+555114,38,2026-12-02,SCHEDULED,CR Flamengo,Flamengo,,,Chapecoense AF,Chapecoense,2026-05-24 03:04:47.736498
+555115,38,2026-12-02,SCHEDULED,Grêmio FBPA,Grêmio,,,Mirassol FC,Mirassol,2026-05-24 03:04:47.736499
+555116,38,2026-12-02,SCHEDULED,SE Palmeiras,Palmeiras,,,Coritiba FBC,Coritiba,2026-05-24 03:04:47.736501
+555117,38,2026-12-02,SCHEDULED,Clube do Remo,Clube do Remo,,,SC Corinthians Paulista,Corinthians,2026-05-24 03:04:47.736503
+555118,38,2026-12-02,SCHEDULED,Santos FC,Santos,,,Botafogo FR,Botafogo,2026-05-24 03:04:47.736505
+555119,38,2026-12-02,SCHEDULED,CR Vasco da Gama,Vasco da Gama,,,EC Vitória,Vitória,2026-05-24 03:04:47.736506
